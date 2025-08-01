@@ -1,0 +1,12 @@
+<svg width="1800" height="250" viewBox="0 0 1800 250" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1800" height="250" fill="#237980"/>
+  <rect y="180" width="1800" height="70" fill="#24394b"/>
+  <circle cx="150" cy="125" r="100" fill="#c9f5ff" opacity="0.13"/>
+  <circle cx="1650" cy="75" r="65" fill="#e3c164" opacity="0.10"/>
+  <text x="200" y="160" font-family="Inter, sans-serif" font-size="64" fill="#f5f6f7" font-weight="700">
+    STAGBROOK TECH — Reality-based AI Breakthroughs
+  </text>
+  <text x="200" y="220" font-family="Inter, sans-serif" font-size="32" fill="#e3c164" font-weight="500">
+    '42': The Formal Verification of Life, The Universe, and Everything
+  </text>
+</svg>
